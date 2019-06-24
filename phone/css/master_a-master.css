@@ -1,0 +1,315 @@
+#u6728
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #242319;
+	background-color: rgba(12,11,0,0.9);
+	-pie-background: rgba(12,11,0,0.9);
+}
+
+#menuu6729,#u6733
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6734-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6733:hover #u6734-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6775
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6776-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6733.MuseMenuActive #u6734-4 p,#u6775:hover #u6776-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6780
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6783-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6775.MuseMenuActive #u6776-4 p,#u6780:hover #u6783-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6740
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6741-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6780.MuseMenuActive #u6783-4 p,#u6740:hover #u6741-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6754
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6756-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6740.MuseMenuActive #u6741-4 p,#u6754:hover #u6756-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6727,#u6730,#u6772,#u6779,#u6737,#u6751,#u6758
+{
+	background-color: transparent;
+}
+
+#u6761
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6762-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 400;
+}
+
+#u6754.MuseMenuActive #u6756-4 p,#u6761:hover #u6762-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6761.MuseMenuActive #u6762-4 p
+{
+	color: #FFD81B;
+	visibility: inherit;
+}
+
+#u6724
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../../images/tablet_menu_01.png") no-repeat center center;
+}
+
+#u6724.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u6720
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../../images/tablet_menu_02.png") no-repeat center center;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u6602
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #1E1E1E;
+}
+
+#u6609-4
+{
+	background-color: transparent;
+	line-height: 17px;
+	font-size: 12px;
+	color: #F5F5F5;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u6606-4,#u6617-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: exo, sans-serif;
+	font-weight: 500;
+}
+
+#u16893
+{
+	background-color: #FFFFFF;
+}
+
+#u16893:hover
+{
+	background-color: #FFD81B;
+}
+
+#u16889
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../../images/icon_fb_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16889:hover
+{
+	background: #FFD81B url("../../images/icon_fb_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16890
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #FFFFFF url("../../images/icon_tw_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16890:hover
+{
+	background: #FFD81B url("../../images/icon_tw_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16891
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../../images/icon_i_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16891:hover
+{
+	background: #FFD81B url("../../images/icon_i_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16892
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../../images/icon_mx_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u16892:hover
+{
+	background: #FFD81B url("../../images/icon_mx_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u6603
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #0C0B00;
+}
+
+#u6604-6
+{
+	display: block;
+	vertical-align: top;
+}
+
+

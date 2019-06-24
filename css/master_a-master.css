@@ -1,0 +1,423 @@
+#menuu510,#u540
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u540:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u542-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u540:hover #u542-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u561
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u540.MuseMenuActive,#u561:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u562-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u540.MuseMenuActive #u542-4,#u561:hover #u562-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u554
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u561.MuseMenuActive,#u554:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u555-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u561.MuseMenuActive #u562-4,#u554:hover #u555-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u512
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u554.MuseMenuActive,#u512:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u514-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u554.MuseMenuActive #u555-4,#u512:hover #u514-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u526
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u512.MuseMenuActive,#u526:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u527-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u512.MuseMenuActive #u514-4,#u526:hover #u527-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u547
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u526.MuseMenuActive,#u547:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u547.MuseMenuActive
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFD81B;
+}
+
+#u549-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u526.MuseMenuActive #u527-4,#u547:hover #u549-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u547.MuseMenuActive #u549-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.7);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u15240
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../images/youtube__s3.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u15240:hover
+{
+	background: transparent url("../images/youtube__s2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u509
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../images/icon_fb_01.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u509:hover
+{
+	background: transparent url("../images/icon_fb_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u737
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("../images/icon_mx_01.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u737:hover
+{
+	background: transparent url("../images/icon_mx_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u482
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #1E1E1E;
+}
+
+#u487-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 24px;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+	font-family: exo, sans-serif;
+	font-weight: 500;
+}
+
+#u489-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 16px;
+	color: #F5F5F5;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u495-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 24px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: exo, sans-serif;
+	font-weight: 500;
+}
+
+#u15210
+{
+	background-color: #FFFFFF;
+}
+
+#u15210:hover
+{
+	background-color: #FFD81B;
+}
+
+#u496
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../images/icon_fb_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u496:hover
+{
+	background: #FFD81B url("../images/icon_fb_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u498
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #FFFFFF url("../images/icon_tw_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u498:hover
+{
+	background: #FFD81B url("../images/icon_tw_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u505
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../images/icon_i_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u505:hover
+{
+	background: #FFD81B url("../images/icon_i_03.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u501
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: #F5F5F5 url("../images/icon_mx_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u501:hover
+{
+	background: #FFD81B url("../images/icon_mx_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u485
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #0C0B00;
+}
+
+#u13643,#u539,#u560,#u553,#u511,#u525,#u546,#u13665
+{
+	background-color: transparent;
+}
+
+#u3348-31
+{
+	background-color: transparent;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 18px;
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u3348-4,#u3348-9,#u3348-14,#u3348-19,#u3348-24
+{
+	color: #8F8F8F;
+}
+
+#u486-6
+{
+	display: block;
+	vertical-align: top;
+}
+
+

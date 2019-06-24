@@ -1,0 +1,315 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.theloungeband.net" resolutions="1x" timestamp="1459080431261">
+  <folder name="css">
+    <file name="site_global.css" crc="65932199"/>
+    <file name="master_a-master.css" crc="4136755309" ref="index:news:about:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="index.css" crc="1891065" ref="index"/>
+    <file name="iefonts_index.css" crc="3969440300" ref="index"/>
+    <file name="news.css" crc="4248607417" ref="news"/>
+    <file name="iefonts_news.css" crc="430797310" ref="news"/>
+    <file name="about.css" crc="161630644" ref="about"/>
+    <file name="iefonts_about.css" crc="3929850313" ref="about"/>
+    <file name="photos.css" crc="4070934480" ref="photos"/>
+    <file name="iefonts_photos.css" crc="12080985" ref="photos"/>
+    <file name="videos.css" crc="494609110" ref="videos"/>
+    <file name="iefonts_videos.css" crc="432519647" ref="videos"/>
+    <file name="404.css" crc="4139720422" ref="404"/>
+    <file name="iefonts_404.css" crc="512678823" ref="404"/>
+    <file name="contacts.css" crc="367640764" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="4186286132" ref="contacts"/>
+    <file name="trailer--1.css" crc="4138798162" ref="trailer--1"/>
+    <file name="iefonts_trailer--1.css" crc="4008864606" ref="trailer--1"/>
+    <file name="big-day_-we-re-online_.css" crc="3800057667" ref="big-day!-we-re-online!"/>
+    <file name="iefonts_big-day_-we-re-online_.css" crc="4135981446" ref="big-day!-we-re-online!"/>
+    <file name="trailer.css" crc="3895460029" ref="trailer"/>
+    <file name="iefonts_trailer.css" crc="371508446" ref="trailer"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about:tablet>index:tablet>about:tablet>photos:tablet>videos:tablet>trailer--1:index:about:photos:videos:trailer--1"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>videos:tablet>contacts:tablet>trailer--1:index:about:news:videos:contacts:trailer--1"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>videos:tablet>trailer--1:index:about:videos:trailer--1"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>videos:tablet>trailer--1:index:about:videos:trailer--1"/>
+    <file name="touchswipe.js" crc="4191887251" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>videos:tablet>trailer--1:index:about:videos:trailer--1"/>
+    <file name="form_check.php" crc="430210585" ref="phone>index:phone>news:phone>contacts:tablet>index:tablet>news:tablet>contacts:index:news:contacts"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>index:phone>news:phone>contacts:tablet>index:tablet>news:tablet>contacts:index:news:contacts"/>
+    <file name="form_process.php" crc="339897355" ref="phone>index:phone>news:phone>contacts:tablet>index:tablet>news:tablet>contacts:index:news:contacts"/>
+    <file name="form-u6593.php" crc="222200975" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="form-u6952.php" crc="300989194" ref="phone>news"/>
+    <file name="form-u7408.php" crc="5382838" ref="phone>contacts"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="form-u3842.php" crc="4064460119" ref="tablet>index"/>
+    <file name="form-u4500.php" crc="300989194" ref="tablet>news"/>
+    <file name="form-u5416.php" crc="476590388" ref="tablet>contacts"/>
+    <file name="form-u568.php" crc="89571408" ref="index"/>
+    <file name="form-u1677.php" crc="3910961020" ref="news"/>
+    <file name="form-u2989.php" crc="3944147415" ref="contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="362735340" ref="phone>index"/>
+    <file name="mobile_background_00.jpg" crc="4001989855" ref="phone>index"/>
+    <file name="stripe_pattern.png" crc="4000199862" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="tablet_menu_01.png" crc="4012056727" ref="phone>index"/>
+    <file name="tablet_menu_02.png" crc="315670871" ref="phone>index"/>
+    <file name="u6442-8.png" crc="3802321940" ref="phone>index"/>
+    <file name="zzzuntitled-2.png" crc="536258635" seo="true" ref="phone>index:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="trigger_normal.jpg" crc="290647432" ref="phone>index"/>
+    <file name="trigger_rollover.jpg" crc="4067936026" ref="phone>index"/>
+    <file name="online_title_loan.jpg" crc="4163689035" ref="phone>index:phone>news:tablet>index:tablet>news:index:news"/>
+    <file name="online_title_loan-u15594-r-fr.png" crc="251480017" ref="phone>index:phone>news:tablet>index:tablet>news:index:news"/>
+    <file name="6-u16874-fr.jpg" crc="531497504" ref="phone>index:phone>news:tablet>index:tablet>news:index:news"/>
+    <file name="6-u16874-r-fr.png" crc="173211610" ref="phone>index:phone>news:tablet>index:tablet>news:index:news"/>
+    <file name="special-guitar-wallpaper381x254.jpg" crc="4149584014" seo="true" ref="phone>index"/>
+    <file name="capture.jpg" crc="434936258" ref="phone>index:phone>photos:tablet>index:tablet>photos:index:photos"/>
+    <file name="u6598-17.png" crc="174123065" ref="phone>index"/>
+    <file name="u6598-17-r.png" crc="3977749778" ref="phone>index"/>
+    <file name="u6598-17-m.png" crc="3977749778" ref="phone>index"/>
+    <file name="u6598-17-fs.png" crc="143374648" ref="phone>index"/>
+    <file name="youtube__s1.png" crc="346195789" seo="true" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer:tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="icon_fb_02.png" crc="471789177" ref="phone>index:phone>about:phone>big-day!-we-re-online!:tablet>index:tablet>about:tablet>big-day!-we-re-online!:index:about:big-day!-we-re-online!"/>
+    <file name="icon_tw_02.png" crc="4087721974" ref="phone>index:phone>about:phone>big-day!-we-re-online!:tablet>index:tablet>about:tablet>big-day!-we-re-online!:index:about:big-day!-we-re-online!"/>
+    <file name="icon_i_03.png" crc="4043129335" ref="phone>index:phone>about:phone>big-day!-we-re-online!:tablet>index:tablet>about:tablet>big-day!-we-re-online!:index:about:big-day!-we-re-online!"/>
+    <file name="icon_mx_02.png" crc="113263632" ref="phone>index:phone>big-day!-we-re-online!:tablet>index:tablet>big-day!-we-re-online!:index:big-day!-we-re-online!"/>
+    <file name="u6604-6.png" crc="4084415007" ref="phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos:phone>trailer--1:phone>videos:phone>contacts:phone>404:phone>trailer"/>
+    <file name="mobile_background_04.jpg" crc="415558100" ref="phone>about"/>
+    <file name="mobile_background_05.jpg" crc="340410429" seo="true" ref="phone>about"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>about:tablet>about:about"/>
+    <file name="mobile_background_06.jpg" crc="156460849" seo="true" ref="phone>about"/>
+    <file name="mobile_background_07.jpg" crc="290389155" seo="true" ref="phone>about"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>about:tablet>about:about"/>
+    <file name="mjd.jpg" crc="3893227077" ref="phone>about:tablet>about:about"/>
+    <file name="icon_fb_03.png" crc="509937574" ref="phone>about:tablet>index:tablet>about:index:about"/>
+    <file name="icon_tw_03.png" crc="132609724" ref="phone>about:tablet>about:about"/>
+    <file name="icon_i_02.png" crc="302601094" ref="phone>about:tablet>about:about"/>
+    <file name="peter.jpg" crc="424015279" ref="phone>about:tablet>about:about"/>
+    <file name="pandu.jpg" crc="3966116872" ref="phone>about:tablet>about:about"/>
+    <file name="adil.jpg" crc="290341708" ref="phone>about:tablet>about:about"/>
+    <file name="himanshu.jpg" crc="471179094" ref="phone>about:tablet>about:about"/>
+    <file name="jamal.jpg" crc="364731109" seo="true" ref="phone>about:tablet>about:about"/>
+    <file name="mobile_background_08.jpg" crc="3921504915" ref="phone>news"/>
+    <file name="u6959-17.png" crc="4283955561" ref="phone>news"/>
+    <file name="u6959-17-r.png" crc="3935652669" ref="phone>news"/>
+    <file name="u6959-17-m.png" crc="3935652669" ref="phone>news"/>
+    <file name="u6959-17-fs.png" crc="201587814" ref="phone>news"/>
+    <file name="holiday-fireworks_blur.jpg" crc="462587299" ref="phone>big-day!-we-re-online!:tablet>big-day!-we-re-online!:big-day!-we-re-online!"/>
+    <file name="mobile_background_14.jpg" crc="525478186" ref="phone>photos"/>
+    <file name="6.jpg" crc="380337866" ref="phone>trailer--1:tablet>trailer--1:trailer--1"/>
+    <file name="1367x245.jpg" crc="311853592" seo="true" ref="phone>trailer--1"/>
+    <file name="2367x244.jpg" crc="69607745" seo="true" ref="phone>trailer--1"/>
+    <file name="3366x244.jpg" crc="157887047" seo="true" ref="phone>trailer--1"/>
+    <file name="4367x244.jpg" crc="305701371" seo="true" ref="phone>trailer--1"/>
+    <file name="5367x245.jpg" crc="4261546102" seo="true" ref="phone>trailer--1"/>
+    <file name="6366x244.jpg" crc="455900854" seo="true" ref="phone>trailer--1"/>
+    <file name="7366x244.jpg" crc="46581592" seo="true" ref="phone>trailer--1"/>
+    <file name="mobile_background_16.jpg" crc="3855801794" ref="phone>videos"/>
+    <file name="mobile_background_02.jpg" crc="3896508884" ref="phone>contacts"/>
+    <file name="icon_phone_01.png" crc="34654833" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="icon_phone_02.png" crc="347100228" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="u7398-8.png" crc="3851093216" ref="phone>contacts"/>
+    <file name="icon_mail_01.png" crc="3825011878" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="icon_mail_02.png" crc="208586670" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="u7399-8.png" crc="4242316491" ref="phone>contacts"/>
+    <file name="icon_address_01.png" crc="4275661470" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="icon_address_02.png" crc="3965024284" ref="phone>contacts:tablet>contacts:contacts"/>
+    <file name="u7400-6.png" crc="368780467" ref="phone>contacts"/>
+    <file name="u7418-17.png" crc="27724100" ref="phone>contacts"/>
+    <file name="u7418-17-r.png" crc="3932065667" ref="phone>contacts"/>
+    <file name="u7418-17-m.png" crc="3932065667" ref="phone>contacts"/>
+    <file name="u7418-17-fs.png" crc="3852683637" ref="phone>contacts"/>
+    <file name="mobile_background_01.jpg" crc="249582681" ref="phone>404"/>
+    <file name="gradient_for_home.png" crc="96239472" ref="phone>404:tablet>404:404"/>
+    <file name="capture_1.jpg" crc="469093964" ref="phone>trailer:tablet>trailer:trailer"/>
+    <file name="background_00.jpg" crc="95788114" ref="tablet>index:index"/>
+    <file name="youtube__s3.png" crc="4075590983" ref="tablet>index:index"/>
+    <file name="youtube__s2.png" crc="4245957118" ref="tablet>index:index"/>
+    <file name="icon_fb_01.png" crc="509050322" ref="tablet>index:index"/>
+    <file name="icon_mx_01.png" crc="203606940" ref="tablet>index:index"/>
+    <file name="icon_mx_03.png" crc="14331244" ref="tablet>index:index"/>
+    <file name="u3597-4.png" crc="4015335686" ref="tablet>index"/>
+    <file name="btn_video_01.png" crc="183687550" ref="tablet>index:index"/>
+    <file name="btn_video_02.png" crc="4227606629" ref="tablet>index:index"/>
+    <file name="close_button.png" crc="370163849" ref="tablet>index:tablet>videos:tablet>trailer--1:index:videos:trailer--1"/>
+    <file name="close_button-u3671-r-fr.png" crc="218557428" ref="tablet>index:tablet>videos:tablet>trailer--1:index:videos:trailer--1"/>
+    <file name="amazing-guitar-full-screen-high-resolution-wallpaper-free-desktop-background-images.jpg" crc="4261814690" ref="tablet>index:index"/>
+    <file name="capture-buttonu16415-r-fr.png" crc="3936464394" ref="tablet>index:tablet>photos:index:photos"/>
+    <file name="special-guitar-wallpaper.jpg" crc="4131329313" ref="tablet>index:index"/>
+    <file name="u3850-17.png" crc="265737617" ref="tablet>index"/>
+    <file name="u3850-17-r.png" crc="3998715619" ref="tablet>index"/>
+    <file name="u3850-17-m.png" crc="3998715619" ref="tablet>index"/>
+    <file name="u3850-17-fs.png" crc="3759934944" ref="tablet>index"/>
+    <file name="u3853-6.png" crc="358756574" ref="tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer"/>
+    <file name="up_01.png" crc="317183361" ref="tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="up_02.png" crc="3813315320" ref="tablet>index:tablet>about:tablet>news:tablet>photos:tablet>videos:tablet>contacts:tablet>404:tablet>big-day!-we-re-online!:tablet>trailer--1:tablet>trailer:index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="background_04.jpg" crc="485252380" ref="tablet>about:about"/>
+    <file name="about_dj_01.jpg" crc="92727881" seo="true" ref="tablet>about:about"/>
+    <file name="about_dj_02.jpg" crc="3991762775" seo="true" ref="tablet>about:about"/>
+    <file name="about_dj_03.jpg" crc="4091961625" seo="true" ref="tablet>about:about"/>
+    <file name="background_03.jpg" crc="4082451383" ref="tablet>news:news"/>
+    <file name="u4501-17.png" crc="3824370520" ref="tablet>news"/>
+    <file name="u4501-17-r.png" crc="482058507" ref="tablet>news"/>
+    <file name="u4501-17-m.png" crc="482058507" ref="tablet>news"/>
+    <file name="u4501-17-fs.png" crc="453788702" ref="tablet>news"/>
+    <file name="background_10.jpg" crc="187285048" ref="tablet>photos:photos"/>
+    <file name="background_08.jpg" crc="4229946881" ref="tablet>videos:videos"/>
+    <file name="trailer.jpg" crc="3987635032" ref="tablet>videos:videos"/>
+    <file name="trailer-u16805-r-fr.png" crc="4193421230" ref="tablet>videos:videos"/>
+    <file name="photo_thumb_02.jpg" crc="3828587303" ref="tablet>videos:videos"/>
+    <file name="photo_thumb_02-u16802-r-fr.png" crc="337319811" ref="tablet>videos:videos"/>
+    <file name="background_07.jpg" crc="3892808482" ref="tablet>contacts:contacts"/>
+    <file name="u5406-8.png" crc="85903339" ref="tablet>contacts"/>
+    <file name="u5408-6.png" crc="3945266796" ref="tablet>contacts"/>
+    <file name="u5407-8.png" crc="434555970" ref="tablet>contacts"/>
+    <file name="u5425-17.png" crc="111654132" ref="tablet>contacts"/>
+    <file name="u5425-17-r.png" crc="4043786189" ref="tablet>contacts"/>
+    <file name="u5425-17-m.png" crc="4043786189" ref="tablet>contacts"/>
+    <file name="u5425-17-fs.png" crc="485982787" ref="tablet>contacts"/>
+    <file name="background_01.jpg" crc="156295457" ref="tablet>404:404"/>
+    <file name="trailer--1-favicon.ico" crc="3768525436" ref="tablet>trailer--1"/>
+    <file name="1-u5313-fr.jpg" crc="3767089436" ref="tablet>trailer--1"/>
+    <file name="1-u5313-r-fr.png" crc="255441358" ref="tablet>trailer--1"/>
+    <file name="2-u5307-fr.jpg" crc="150037658" ref="tablet>trailer--1"/>
+    <file name="2-u5307-r-fr.png" crc="4229590148" ref="tablet>trailer--1"/>
+    <file name="3-u5312-fr.jpg" crc="4096627609" ref="tablet>trailer--1"/>
+    <file name="3-u5312-r-fr.png" crc="4125788518" ref="tablet>trailer--1"/>
+    <file name="4-u5309-fr.jpg" crc="4131155539" ref="tablet>trailer--1"/>
+    <file name="4-u5309-r-fr.png" crc="91613755" ref="tablet>trailer--1"/>
+    <file name="5-u5311-fr.jpg" crc="346767007" ref="tablet>trailer--1"/>
+    <file name="5-u5311-r-fr.png" crc="421800908" ref="tablet>trailer--1"/>
+    <file name="6-u5310-fr.jpg" crc="398035183" ref="tablet>trailer--1"/>
+    <file name="6-u5310-r-fr.png" crc="4265186343" ref="tablet>trailer--1"/>
+    <file name="7-u5308-fr.jpg" crc="26070464" ref="tablet>trailer--1"/>
+    <file name="7-u5308-r-fr.png" crc="4229893872" ref="tablet>trailer--1"/>
+    <file name="1.jpg" crc="83245649" ref="tablet>trailer--1:trailer--1"/>
+    <file name="2.jpg" crc="4282373047" ref="tablet>trailer--1:trailer--1"/>
+    <file name="3.jpg" crc="207785745" ref="tablet>trailer--1:trailer--1"/>
+    <file name="4.jpg" crc="136456828" ref="tablet>trailer--1:trailer--1"/>
+    <file name="5.jpg" crc="4141791993" ref="tablet>trailer--1:trailer--1"/>
+    <file name="7.jpg" crc="3991246370" ref="tablet>trailer--1:trailer--1"/>
+    <file name="prev_small_arrow.png" crc="4286427314" ref="tablet>trailer--1:trailer--1"/>
+    <file name="next_small_arrow.png" crc="187421845" ref="tablet>trailer--1:trailer--1"/>
+    <file name="home-favicon.ico" crc="3768525436" ref="index"/>
+    <file name="u1096-4.png" crc="3838231479" ref="index"/>
+    <file name="scroll_down.png" crc="378183208" ref="index"/>
+    <file name="u584-17.png" crc="265737617" ref="index"/>
+    <file name="u584-17-r.png" crc="3998715619" ref="index"/>
+    <file name="u584-17-m.png" crc="3998715619" ref="index"/>
+    <file name="u584-17-fs.png" crc="3759934944" ref="index"/>
+    <file name="u486-6.png" crc="473326334" ref="index:about:news:photos:videos:404:contacts:trailer--1:big-day!-we-re-online!:trailer"/>
+    <file name="about-favicon.ico" crc="3768525436" ref="about"/>
+    <file name="news-favicon.ico" crc="3768525436" ref="news"/>
+    <file name="u1679-17.png" crc="132507100" ref="news"/>
+    <file name="u1679-17-r.png" crc="74427132" ref="news"/>
+    <file name="u1679-17-m.png" crc="74427132" ref="news"/>
+    <file name="u1679-17-fs.png" crc="4043733195" ref="news"/>
+    <file name="photos-favicon.ico" crc="3768525436" ref="photos"/>
+    <file name="videos-favicon.ico" crc="3768525436" ref="videos"/>
+    <file name="404-favicon.ico" crc="3768525436" ref="404"/>
+    <file name="contacts-favicon.ico" crc="3768525436" ref="contacts"/>
+    <file name="u2965-8.png" crc="85903339" ref="contacts"/>
+    <file name="u2973-6.png" crc="3945266796" ref="contacts"/>
+    <file name="u2975-8.png" crc="434555970" ref="contacts"/>
+    <file name="u2992-17.png" crc="3866730114" ref="contacts"/>
+    <file name="u2992-17-r.png" crc="4247887822" ref="contacts"/>
+    <file name="u2992-17-m.png" crc="4247887822" ref="contacts"/>
+    <file name="u2992-17-fs.png" crc="483264183" ref="contacts"/>
+    <file name="1-u2663-fr.jpg" crc="3760470033" ref="trailer--1"/>
+    <file name="1-u2663-r-fr.png" crc="408182558" ref="trailer--1"/>
+    <file name="2-u2731-fr.jpg" crc="4036846567" ref="trailer--1"/>
+    <file name="2-u2731-r-fr.png" crc="38573711" ref="trailer--1"/>
+    <file name="3-u2733-fr.jpg" crc="298090483" ref="trailer--1"/>
+    <file name="3-u2733-r-fr.png" crc="12519266" ref="trailer--1"/>
+    <file name="4-u2735-fr.jpg" crc="3988432471" ref="trailer--1"/>
+    <file name="4-u2735-r-fr.png" crc="515734715" ref="trailer--1"/>
+    <file name="5-u2737-fr.jpg" crc="206669172" ref="trailer--1"/>
+    <file name="5-u2737-r-fr.png" crc="447930707" ref="trailer--1"/>
+    <file name="6-u2739-fr.jpg" crc="77881561" ref="trailer--1"/>
+    <file name="6-u2739-r-fr.png" crc="429534592" ref="trailer--1"/>
+    <file name="7-u2741-fr.jpg" crc="3963000373" ref="trailer--1"/>
+    <file name="7-u2741-r-fr.png" crc="4254161402" ref="trailer--1"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="407042558" ref="tablet>index:tablet>about:tablet>trailer:tablet>trailer--1:tablet>big-day!-we-re-online!:tablet>404:tablet>contacts:tablet>photos:tablet>videos:tablet>news"/>
+      <file name="index.css" crc="245341718" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3980762386" ref="tablet>index"/>
+      <file name="about.css" crc="337451644" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="299560807" ref="tablet>about"/>
+      <file name="trailer.css" crc="4151263616" ref="tablet>trailer"/>
+      <file name="iefonts_trailer.css" crc="351490953" ref="tablet>trailer"/>
+      <file name="trailer--1.css" crc="4221070253" ref="tablet>trailer--1"/>
+      <file name="big-day_-we-re-online_.css" crc="3813131142" ref="tablet>big-day!-we-re-online!"/>
+      <file name="iefonts_big-day_-we-re-online_.css" crc="226012626" ref="tablet>big-day!-we-re-online!"/>
+      <file name="404.css" crc="4148557721" ref="tablet>404"/>
+      <file name="iefonts_404.css" crc="523178770" ref="tablet>404"/>
+      <file name="contacts.css" crc="491402643" ref="tablet>contacts"/>
+      <file name="iefonts_contacts.css" crc="320320288" ref="tablet>contacts"/>
+      <file name="photos.css" crc="3855184651" ref="tablet>photos"/>
+      <file name="iefonts_photos.css" crc="4055635792" ref="tablet>photos"/>
+      <file name="videos.css" crc="192330394" ref="tablet>videos"/>
+      <file name="iefonts_videos.css" crc="441673280" ref="tablet>videos"/>
+      <file name="news.css" crc="4260555382" ref="tablet>news"/>
+      <file name="iefonts_news.css" crc="453735116" ref="tablet>news"/>
+    </folder>
+    <file name="index.html" crc="4139159164" seo="true" mt="1458009506855" redirect="true"/>
+    <file name="about.html" crc="4196597809" seo="true" mt="1457997151180" redirect="true"/>
+    <file name="news.html" crc="3782277991" seo="true" mt="1457988009897" redirect="true"/>
+    <file name="photos.html" crc="527454014" seo="true" mt="1457988009897" redirect="true"/>
+    <file name="videos.html" crc="4270596615" seo="true" mt="1458009544719" redirect="true"/>
+    <file name="contacts.html" crc="3835440813" seo="true" mt="1457988009897" redirect="true"/>
+    <file name="404.html" crc="4111328107" seo="true" mt="1457988009897" redirect="true"/>
+    <file name="big-day!-we-re-online!.html" crc="313204706" seo="true" mt="1457988009919" redirect="true"/>
+    <file name="trailer--1.html" crc="4013367787" seo="true" mt="1457988009897" redirect="true"/>
+    <file name="trailer.html" crc="98728798" seo="true" mt="1458009522602" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4272107825" ref="phone>trailer--1:phone>contacts:phone>videos:phone>trailer:phone>404:phone>index:phone>about:phone>news:phone>big-day!-we-re-online!:phone>photos"/>
+      <file name="trailer--1.css" crc="4061996000" ref="phone>trailer--1"/>
+      <file name="iefonts_trailer--1.css" crc="4108293217" ref="phone>trailer--1"/>
+      <file name="contacts.css" crc="405742145" ref="phone>contacts"/>
+      <file name="iefonts_contacts.css" crc="369666794" ref="phone>contacts"/>
+      <file name="videos.css" crc="180744011" ref="phone>videos"/>
+      <file name="iefonts_videos.css" crc="4151445644" ref="phone>videos"/>
+      <file name="trailer.css" crc="424967537" ref="phone>trailer"/>
+      <file name="iefonts_trailer.css" crc="4050780429" ref="phone>trailer"/>
+      <file name="404.css" crc="3943508784" ref="phone>404"/>
+      <file name="iefonts_404.css" crc="4038370944" ref="phone>404"/>
+      <file name="index.css" crc="3997192041" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3760464656" ref="phone>index"/>
+      <file name="about.css" crc="334050818" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="4099344186" ref="phone>about"/>
+      <file name="news.css" crc="528310825" ref="phone>news"/>
+      <file name="iefonts_news.css" crc="90888721" ref="phone>news"/>
+      <file name="big-day_-we-re-online_.css" crc="402679260" ref="phone>big-day!-we-re-online!"/>
+      <file name="iefonts_big-day_-we-re-online_.css" crc="4131273957" ref="phone>big-day!-we-re-online!"/>
+      <file name="photos.css" crc="3879702597" ref="phone>photos"/>
+      <file name="iefonts_photos.css" crc="150207665" ref="phone>photos"/>
+    </folder>
+    <file name="index.html" crc="4017696424" seo="true" mt="1458009561845" redirect="true"/>
+    <file name="about.html" crc="4011281197" seo="true" mt="1457997151182" redirect="true"/>
+    <file name="news.html" crc="3934169553" seo="true" mt="1457999969225" redirect="true"/>
+    <file name="big-day!-we-re-online!.html" crc="212402002" seo="true" mt="1457991255974" redirect="true"/>
+    <file name="photos.html" crc="54412910" seo="true" mt="1457991255974" redirect="true"/>
+    <file name="trailer--1.html" crc="197324640" seo="true" mt="1457991255974" redirect="true"/>
+    <file name="videos.html" crc="3907133076" seo="true" mt="1458009573579" redirect="true"/>
+    <file name="contacts.html" crc="179127526" seo="true" mt="1457991255974" redirect="true"/>
+    <file name="404.html" crc="336125229" seo="true" mt="1457991255974" redirect="true"/>
+    <file name="trailer.html" crc="3830920872" seo="true" mt="1458009568765" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4259531703" seo="true" mt="1459080379559" redirect="true"/>
+  <file name="about.html" crc="3313075" seo="true" mt="1457997151178" redirect="true"/>
+  <file name="news.html" crc="3850567948" seo="true" mt="1457988009900" redirect="true"/>
+  <file name="photos.html" crc="341287099" seo="true" mt="1457988009900" redirect="true"/>
+  <file name="videos.html" crc="3769809275" seo="true" mt="1458009500783" redirect="true"/>
+  <file name="404.html" crc="382853315" seo="true" mt="1457988009900" redirect="true"/>
+  <file name="contacts.html" crc="11898633" seo="true" mt="1457988009900" redirect="true"/>
+  <file name="trailer--1.html" crc="259220523" seo="true" mt="1457988009900" redirect="true"/>
+  <file name="big-day!-we-re-online!.html" crc="326943299" seo="true" mt="1457988009929" redirect="true"/>
+  <file name="trailer.html" crc="3926661390" seo="true" mt="1458009479716" redirect="true"/>
+</manifest>
